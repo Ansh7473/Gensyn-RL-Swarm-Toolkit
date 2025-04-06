@@ -1,6 +1,3 @@
-
-#### `scripts/setup_gensyn_node_local.sh`
-```bash
 #!/bin/bash
 
 echo "Starting Gensyn RL-Swarm Node Setup (Local PC)..."
